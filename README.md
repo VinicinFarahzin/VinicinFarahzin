@@ -1,10 +1,8 @@
-🤠 Meu nome é Vinícius F. Farah.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VinicinFarazin101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
-- 🔭 Estudante.
-- 🌱 Eu estou aprendendo o básico da programação.
-- 📫 Como me chamar: Me chama lá no discord!
-- 😄 Ele/Dele.
-- ⚡ Fun fact: Eu nunca tirei nota baixa.
+
 
 
 <div aling="center">
